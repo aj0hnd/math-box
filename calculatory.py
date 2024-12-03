@@ -5,6 +5,3 @@ def add(a, b):
 # 빼기
 def substract(a, b):
     return a - b;
-
-def sayHello():
-    print("Hello.")
